@@ -1,0 +1,7 @@
+22:44:49.137 [TestNG-tests-1] INFO  resources.base - Navigation bar is displayed
+22:44:51.471 [TestNG-tests-2] INFO  resources.base - not SUS
+22:45:05.995 [TestNG-tests-2] INFO  resources.base - SUS
+22:46:09.573 [TestNG-tests-3] INFO  resources.base - Driver is initialized.
+22:46:25.943 [TestNG-tests-2] INFO  resources.base - not SUS
+22:46:27.857 [TestNG-tests-3] INFO  resources.base - Navigated to Home Page.
+22:46:28.223 [TestNG-tests-1] INFO  resources.base - Navigation bar is displayed

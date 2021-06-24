@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 5.854 s <<< FAILURE! - in TestSuite
+cucumberOptions.TestRunner.feature[Login into Application](1)  Time elapsed: 0.658 s  <<< FAILURE!
+cucumber.runtime.CucumberException: java.lang.ExceptionInInitializerError
+Caused by: java.lang.ExceptionInInitializerError
+Caused by: java.lang.reflect.InaccessibleObjectException: Unable to make field private final java.util.Comparator java.util.TreeMap.comparator accessible: module java.base does not "opens java.util" to unnamed module @6b8ca3c8
+
+cucumberOptions.TestRunner.feature  Time elapsed: 0.706 s  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "ts" is null
+

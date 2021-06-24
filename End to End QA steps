@@ -1,0 +1,39 @@
+1. Create maven project
+2. Import maven dependencies
+3. Setup global variables
+	- .properties file
+	- base class (initialize browser driver)
+4. Pageobjects
+5. Data providers
+6. Convert to TestNG
+7. Prepare maven
+	- Add surefire plugin
+	- cmd run mvn compile
+8. log4j
+	- make log4j2 xml
+	- resource filtering in pom.xml
+	- create log file
+9. Create listeners (play around)
+	- listeners > source > override
+	- initialize screenshotter at base.java
+	- needs apache commons io package
+10. Extent Reports
+	- needs extentreports package
+	- flush on finish
+11. fix parallel execution
+	- threadlocal
+12. pageobjects optimization
+13. jenkins
+
+
+=== Cucumber ===
+14. add features, stepDefinition, cucumberOptions to src test
+15. populate .features
+16. run testrunner to get stepdefinition template
+Tips:
+	- use jenkins parameter
+	- java oop technique private variables & public methods coding standard
+	- use dynamic paths
+	- consider running browsers in headless mode
+	- static vs non static variables
+	- practice multiple tests in one browser initialization 

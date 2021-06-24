@@ -1,0 +1,4 @@
+21:29:38.717 [TestNG-tests-3] INFO  resources.base - Navigated to Home Page.
+21:29:43.064 [TestNG-tests-1] INFO  resources.base - Navigation bar is displayed
+21:29:44.823 [TestNG-tests-2] INFO  resources.base - not SUS
+21:29:57.281 [TestNG-tests-2] INFO  resources.base - SUS

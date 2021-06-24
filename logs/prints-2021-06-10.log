@@ -1,0 +1,9 @@
+22:24:44.960 [main] INFO  resources.base - Navigation bar is displayed
+22:24:58.157 [main] INFO  resources.base - not SUS
+22:25:10.284 [main] INFO  resources.base - SUS
+22:25:11.567 [main] INFO  resources.base - Successfully validated text message.
+22:34:07.020 [main] INFO  resources.base - Navigation bar is displayed
+22:34:17.290 [main] INFO  resources.base - not SUS
+22:34:27.480 [main] INFO  resources.base - SUS
+22:34:29.410 [main] INFO  resources.base - Driver is initialized.
+22:34:36.914 [main] INFO  resources.base - Navigated to Home Page.
